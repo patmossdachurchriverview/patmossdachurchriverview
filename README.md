@@ -16,9 +16,7 @@ To glorify God by:
 
 ---
 
-## 📍 Location
-
-**:contentReference[oaicite:0]{index=0}**  
+## 📍 Location 
 Riverview, Florida  
 United States
 
